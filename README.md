@@ -1,5 +1,6 @@
 # Thesis work
 This repository contains the ROS2 nodes developed for my thesis work, a robot for indoor service robotics. 
+
 The first part involved the detection of a person in the camera streaming via a neural network and the derivation of the relative distance with respect to the robot. Files sort.py, posenet_engine_mod.py and posenet_node.py are related to this part. 
 
 
